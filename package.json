@@ -1,8 +1,8 @@
 {
   "name": "njector",
-  "description": "A lightweight and easy to use depdency injection module.",
+  "description": "A lightweight and easy to use dependency injection module.",
   "author": "Alev457",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "scripts": {
     "prepublish": "tsc -p .",
@@ -17,5 +17,11 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/alev457/njector"
-  }
+  },
+  "keywords": [
+    "dependency",
+    "injection",
+    "inject",
+    "depend"
+  ]
 }
