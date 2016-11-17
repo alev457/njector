@@ -1,7 +1,7 @@
 {
-  "name": "patterns",
-  "description": "patterns and stuff",
-  "author": "not relevant",
+  "name": "njector",
+  "description": "A lightweight easy to use depdency injection module.",
+  "author": "Alev457",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -12,5 +12,10 @@
   "devDependencies": {
     "typescript": "2.x"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "readme": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alev457/njector"
+  }
 }
