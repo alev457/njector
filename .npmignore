@@ -4,3 +4,4 @@ typings
 .gitattributes
 .gitignore
 **.tgz
+npm-debug.log

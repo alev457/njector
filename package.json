@@ -1,8 +1,8 @@
 {
   "name": "njector",
-  "description": "A lightweight easy to use depdency injection module.",
+  "description": "A lightweight and easy to use depdency injection module.",
   "author": "Alev457",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "scripts": {
     "prepublish": "tsc -p .",

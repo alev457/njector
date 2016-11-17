@@ -50,5 +50,5 @@ Temporary Items
 **.js
 node_modules
 **.tgz
-npm_debug.log
+npm-debug.log
 typings
