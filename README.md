@@ -108,7 +108,7 @@ class UserStore implements IStore<User> {
 import {Router} from "express";
 import {IInjector} from "njector";
 import {User} from "../models/user";
-import {IStore} from "../interfaces/stores";
+import {IStore} from "../interfaces/i-store";
 
 class UserController {
   constructor(injector: IInjector) {
